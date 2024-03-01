@@ -1,0 +1,14 @@
+name: text-classify
+dependencies:
+- pandas
+- numpy
+- ipykernel
+- jupyter
+- pip
+- matplotlib
+- pip:
+  - pymilvus
+  - sentence-transformers
+  - plotly-express
+  - transformers
+  - torch
