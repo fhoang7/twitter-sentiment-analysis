@@ -6,6 +6,7 @@ dependencies:
 - jupyter
 - pip
 - matplotlib
+- scikit-learn
 - pip:
   - pymilvus
   - sentence-transformers
