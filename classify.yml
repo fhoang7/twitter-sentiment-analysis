@@ -7,9 +7,13 @@ dependencies:
 - pip
 - matplotlib
 - scikit-learn
+- nltk
+- mlflow
 - pip:
   - pymilvus
   - sentence-transformers
   - plotly-express
   - transformers
   - torch
+  - pycaret
+  - optuna
